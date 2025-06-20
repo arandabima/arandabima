@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://c4.wallpaperflare.com/wallpaper/29/528/960/digital-art-men-city-futuristic-wallpaper-preview.jpg" alt="Banner" />
+  <img src="https://c4.wallpaperflare.com/wallpaper/29/528/960/digital-art-men-city-futuristic-wallpaper-preview.jpg" alt="Banner" width="100%" />
 </p>
+
 
 
 # 👋 Halo, saya Aranda Bima!
