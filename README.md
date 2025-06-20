@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Halo, saya Budi!
+# 👋 Halo, saya ArandaBima!
 
-Saya adalah seorang penulis & editor profesional yang suka menulis artikel SEO, konten bisnis, dan teknologi.
+Saya adalah seorang mahasiswa  yang suka menulis artikel SEO, konten bisnis, dan teknologi.
 
 ## ✍️ Tentang Saya
 - 📚 Menulis sejak 2010
@@ -35,4 +35,19 @@ Saya adalah seorang penulis & editor profesional yang suka menulis artikel SEO, 
 - 📧 Email: budi@example.com
 - 🌐 Website: [budicontent.com](https://budicontent.com)
 - 🔗 LinkedIn: [linkedin.com/in/budi](https://linkedin.com/in/budi)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arandbima&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arandabima&layout=compact&theme=tokyonight)
+
+![GitHub followers](https://img.shields.io/github/followers/arandabima?style=social)
+![Email Badge](https://img.shields.io/badge/Email-arandabimantara100@gmail.com-blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-budi-blue?logo=linkedin)](https://linkedin.com/in/budi)
+
+![Banner](https://github.com/USERNAME_KAMU/arandabima/blob/main/Assets/banner.png)
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+
+
+
+
 
