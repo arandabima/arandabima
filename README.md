@@ -22,8 +22,8 @@ Selamat datang di profil GitHub saya! Saya adalah seorang mahasiswa yang suka ng
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arandabima&layout=compact&theme=tokyonight)
 
 ## 📫 Bisa Kontak di Sini
-[![Instagram](https://img.shields.io/badge/-@arandabima-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/arandabima)
-[![Email](https://img.shields.io/badge/-Email-0078D4?style=flat&logo=gmail&logoColor=white)](mailto:arandabima@example.com)
+[![Instagram](https://img.shields.io/badge/-@arandabima-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/arandabima_/)
+[![Email](https://img.shields.io/badge/-Email-0078D4?style=flat&logo=gmail&logoColor=white)](mailto:arandabimantara100@gmail.com)
 
 > “Koding itu setengah logika, setengah kopi.” ☕
 
