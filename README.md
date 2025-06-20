@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](([https://www.wallpaperflare.com/digital-art-men-city-futuristic-night-neon-science-fiction-wallpaper-udroj]) <!-- Ganti dengan banner kamu kalau punya -->
+![Banner](https://c4.wallpaperflare.com/wallpaper/29/528/960/digital-art-men-city-futuristic-wallpaper-preview.jpg)
 
 # 👋 Halo, saya Aranda Bima!
 
