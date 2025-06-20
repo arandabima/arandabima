@@ -14,11 +14,6 @@ Selamat datang di profil GitHub saya! Saya adalah seorang mahasiswa yang suka ng
 - ☕ Penikmat kopi & debugging malam-malam
 - 📍 Berdomisili di Indonesia
 
-## 🚀 Projek Iseng & Eksperimen
-- [Mini Web Portofolio](https://github.com/arandabima/web-portofolio)
-- [To-Do List App](https://github.com/arandabima/todo-app)
-- [Catatan Kuliah Digital](https://github.com/arandabima/notes-digital)
-
 ## 📊 Statistik GitHub
 ![Aranda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arandabima&show_icons=true&theme=tokyonight)
 
