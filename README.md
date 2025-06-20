@@ -1,11 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img
-    src="https://www.wallpaperflare.com/digital-art-men-city-futuristic-night-neon-science-fiction-wallpaper-udroj/download/4096x2304"
-    alt="Banner"
-    style="max-width: 100%; height: auto;"
-  />
+  <img src="https://github.com/arandabima/arandabima/raw/main/wallpaperflare.com_wallpaper%20(2).jpg" alt="Banner" width="100%" />
 </p>
+
 
 # 👋 Halo, saya Aranda Bima!
 
