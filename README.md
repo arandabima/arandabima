@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/arandabima/arandabima/raw/main/wallpaperflare.com_wallpaper%20(2).jpg" alt="Banner" width="100%" />
+  <img src="https://github.com/arandabima/arandabima/raw/main/wallpaperflare.com_wallpaper%20(2).jpg" alt="Banner" width="50%" />
 </p>
 
 
